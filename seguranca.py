@@ -10,7 +10,7 @@ from database import conectar
 # DADOS DO DESENVOLVEDOR E CHAVES DE ACESSO
 # =================================================================
 CHAVES_CADASTRADAS = {
-    "abcd: 30,            
+    "abcd": 30,            
     "1234": 36500    
 }
 
