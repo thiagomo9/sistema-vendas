@@ -10,12 +10,12 @@ from database import conectar
 # DADOS DO DESENVOLVEDOR E CHAVES DE ACESSO
 # =================================================================
 CHAVES_CADASTRADAS = {
-    "TESTE30": 30,            
-    "PRO-VITALICIO": 36500    
+    "abcd: 30,            
+    "1234": 36500    
 }
 
 NOME_DESENVOLVEDOR = "Thiago"
-TELEFONE_SUPORTE = "(79) 98149-1530"
+TELEFONE_SUPORTE = "(00) 0 0000-0000"
 
 # =================================================================
 # LÓGICA DE LICENCIAMENTO
